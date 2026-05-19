@@ -7,6 +7,6 @@ The main purpose of the activity is:
 This means the activity focuses on:
 `` teamwork,
 `` version control,
-file sharing,
-tracking changes,
-and proper collaboration using GitHub.
+`` file sharing,
+`` tracking changes,
+`` and proper collaboration using GitHub.
