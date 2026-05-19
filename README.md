@@ -1,12 +1,12 @@
-# Git_Activity3
-AppDev - Activity 3
-## Main Goal of the Activity
-The main purpose of the activity is:
-- To help students collaborate effectively and efficiently in group projects using Git repositories.
+# Git_Activity4
+AppDev - Activity 4
 
-This means the activity focuses on:
-- teamwork,
-- version control,
-- file sharing,
-- tracking changes,
-- and proper collaboration using GitHub.
+## Group Members:
+- Ubac, Matthew Brian P.
+- Canguit, Angelito Jr.
+
+### Current Task Separation
+- Ubac, Matthew Brian P. → Editing and updating the `README.md` file
+- Canguit, Angelito Jr. → Creating and managing the `Members.txt` file
+
+Each member works on their own branch before merging the changes into the main branch.
