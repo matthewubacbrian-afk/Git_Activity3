@@ -1,0 +1,3 @@
+Name: Angelito Jr. G. Canguit
+Task: Git collaboration activity
+Contribution: Added text file and committed changes
