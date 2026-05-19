@@ -5,8 +5,8 @@ The main purpose of the activity is:
 ~ To help students collaborate effectively and efficiently in group projects using Git repositories.
 
 This means the activity focuses on:
-`` teamwork,
+- teamwork,
 `` version control,
 `` file sharing,
 `` tracking changes,
-`` and proper collaboration using GitHub.
+and proper collaboration using GitHub.
